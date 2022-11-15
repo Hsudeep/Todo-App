@@ -1,7 +1,9 @@
+import MainRoutes from "./Pages/MainRoutes";
+
 function App() {
   return (
     <div>
-      <h1>Server</h1>
+      <MainRoutes/>
     </div>
   );
 }

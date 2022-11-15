@@ -1,0 +1,48 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Learn React",
+            "description": "Desc for Learn React",
+            "status": "in-progress",
+            "tags": ["Personal", "Official"],
+            "sub_tasks": [
+                {"subTitle": "Task1 1: Sub Task 1", "status": true},
+                {"subTitle": "Task1 2: Sub Task 2", "status": false}
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Learn React 2",
+            "description": "Desc for Learn React",
+            "status": "done",
+            "tags": ["Personal"],
+            "sub_tasks": [
+                {"subTitle": "Task2 1: Sub Task 1", "status": true},
+                {"subTitle": "Task2 2: Sub Task 2", "status": false}
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Learn React 3",
+            "description": "Desc for Learn React",
+            "status": "Todo",
+            "tags": ["Others"],
+            "sub_tasks": [
+                {"subTitle": "Task3 1: Sub Task 1", "status": true},
+                {"subTitle": "Task3 2: Sub Task 2", "status": false}
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Learn React 4",
+            "description": "Desc for Learn React",
+            "status": "Todo",
+            "tags": ["Official"],
+            "sub_tasks": [
+                {"subTitle": "Task4 1: Sub Task 1", "status": true},
+                {"subTitle": "Task4 2: Sub Task 2", "status": false}
+            ]
+        }
+    ]
+}
